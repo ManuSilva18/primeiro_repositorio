@@ -1,7 +1,7 @@
 # primeiro_repositorio
 Criei minha primeira pasta
 
-Ola! Meu nome é Emanuelle oliveira da Silva. 📚
+Ola! Meu nome é Emanuelle Oliveira da Silva. 📚
 
 Apaixonada por aprendizado contínuo, atualmente explorando o mundo da programação.
 Leitora nas horas vagas, valorizo boas conversas e momentos de qualidade com pessoas que fazem a diferença. Admiro e procuro conhecimento.
